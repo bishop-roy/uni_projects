@@ -1,4 +1,4 @@
-# RestroGirls
+# KhanaPina
 
 A Simple Demo Resturant Management System Project in PHP
 
